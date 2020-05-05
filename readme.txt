@@ -14,3 +14,5 @@ mark：记得每次提交都要add并commit历史更改记录
 
 查看更改：同一位置输入
     git diff <文件名.格式>
+
+github的用法好像挺傻瓜的，commit change 的两个框分别代表git add 和 git commit -m, 直接输入即可
